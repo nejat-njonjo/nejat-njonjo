@@ -1,5 +1,3 @@
-### Let's Talk about Nejat Njonjo (PanAfrcianChild)
+### Summary
 
-I’m Nejat Joseph Mhango a full-stack developer.   My focus has been on web technologies. I’ve worked in-house and remotely on projects for agencies and startups. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference. I like to be involved at different stages of a digital project, from the seed of the idea to sketches, design and even the front-end. As a freelancer, this means I can jump in at any stage of a project, or take on the whole project, from design to build.
-
-I want to be one of the people contributing to the change of advanced technology in :malawi: Malawi (The Warm Heart of Africa).
+As a full-stack developer with a passion for web technologies, I have honed my skills by working on a variety of projects for agencies and startups, both in-house and remotely. My ultimate goal is to create world-class products that are not only useful, but also beautiful and impactful. I thrive on being a part of the entire digital journey, from the initial spark of an idea to the final design and development. As a freelancer, I am able to jump in at any stage of a project and bring my expertise to the table. And I am eager to be part of the innovative technology revolution in Malawi, the warm heart of Africa.
